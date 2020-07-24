@@ -8,7 +8,7 @@
 :fox_face: **For Mozilla users:**
 > https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
-### After having installed the extension, you can head over to userstyles.org and install any style:
+### After installing the extension, you can head over to userstyles.org and install any style:
 
 1) Google Dark Theme:
 
