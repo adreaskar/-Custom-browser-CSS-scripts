@@ -9,3 +9,5 @@
 > https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
 ### After you have installed the extension, head over to [my userstyles.org account](https://userstyles.org/users/992379) and install any style.
+
+The styles are constantly under development and new features are being added.
