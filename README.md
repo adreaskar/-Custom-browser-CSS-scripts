@@ -14,8 +14,8 @@
 
 ### If the userstyles.org website is not responding, you can manually import styles:
 
-- Click on the extension icon and then click the "Manage" button.
+1) Click on the extension icon and then click the "Manage" button.
 
-- On the **Backup** section click import and select the .json file that's included in the repository.
+2) On the **Backup** section click import and select the .json file that's included in the repository.
 
 The styles are constantly under development and new features are being added.
