@@ -8,6 +8,10 @@
 :fox_face: **For Mozilla users:**
 > https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
-### After you have installed the extension, head over to [my userstyles.org account](https://userstyles.org/users/992379) and install any style.
+### After having installed the extension, you can head over to userstyles.org and install any style:
+
+1) Google Dark Theme:
+
+2) Youtube Custom Accent Color: https://userstyles.org/styles/187051/youtube-custom-accent-color
 
 The styles are constantly under development and new features are being added.
