@@ -16,6 +16,10 @@
 
 1) Click on the extension icon and then click the "Manage" button.
 
+![1](https://github.com/adreaskar/images/blob/master/manual1.jpg?raw=true)
+
 2) On the **Backup** section click import and select the .json file that's included in the repository.
+
+![1](https://github.com/adreaskar/images/blob/master/manual2.jpg?raw=true)
 
 The styles are constantly under development and new features are being added.
