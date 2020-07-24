@@ -6,7 +6,7 @@
 
 :root {
   --color: #ff7429;
-  --color2: lightskyblue
+  --color2: lightskyblue;
 }
 
 /* Body color */
@@ -353,19 +353,19 @@ path:nth-child(2) {
     color:white;
 }
 #foot .AaVjTc .YyVfkd {
-    color:white
+    color:white;
 }
 .Fx4vi {
     color:#838587 !important;
 }
 .Fx4vi:hover{
-    color:white !important
+    color:white !important;
 }
 #BHDErf:hover {
-    color:white !important
+    color:white !important;
 }
 #eqQYZc:hover {
-    color:white !important
+    color:white !important;
 }
 .std {
     border:1px solid transparent;
@@ -416,7 +416,7 @@ path:nth-child(2) {
 }
 .tfB0Bf input[type="submit"]:hover, .gbqfba:hover {
     border:none;
-    color:#838587
+    color:#838587;
 }
 
 
@@ -430,7 +430,7 @@ path:nth-child(2) {
     background:#181818;
 }
 .gb_l .gb_tb {
-    color:var(--color)
+    color:var(--color);
 }
 .gb_sb {
     color:#838587 !important
