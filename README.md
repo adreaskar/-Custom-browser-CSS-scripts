@@ -18,7 +18,7 @@
 
 ![1](https://github.com/adreaskar/images/blob/master/manual1.jpg?raw=true)
 
-2) On the **Backup** section click import and select the .json file that's included in the repository.
+2) On the **Backup** section click import and select the .json file that's included in the repository (I will try to keep it up to date).
 
 ![1](https://github.com/adreaskar/images/blob/master/manual2.jpg?raw=true)
 
