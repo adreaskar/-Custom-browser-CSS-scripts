@@ -2,7 +2,7 @@
 
 ### To use any of theese styles you need to have the _Stylus_ extension on your browser.
 
-:globe_with_meridians: [For Chrome / Opera users](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+:globe_with_meridians: [For Chrome users](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 
 :fox_face: [For Mozilla users](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 
