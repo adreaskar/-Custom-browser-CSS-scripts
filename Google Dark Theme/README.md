@@ -1,1 +1,1 @@
-# Current Version: 1.2 (25/07/2020)
+# Current Version: 1.3 (25/07/2020)
