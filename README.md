@@ -4,6 +4,8 @@
 
 :globe_with_meridians: [For Chrome users](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 
+:o:[For Opera users](https://addons.opera.com/en/extensions/details/stylus/)
+
 :fox_face: [For Mozilla users](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 
 ### After installing the extension, you can head over to userstyles.org and install any style:
