@@ -8,7 +8,7 @@
 
 ### After installing the extension, you can head over to userstyles.org and install any style:
 
-> [Google Dark Theme]()
+> [Google Dark Theme](https://userstyles.org/styles/187044/google-dark-theme-with-accent-color)
 
 > [Youtube Custom Accent Color](https://userstyles.org/styles/187051/youtube-custom-accent-color)
 
