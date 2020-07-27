@@ -1,11 +1,11 @@
-@-moz-document url-prefix("https://www.google.com/"), url-prefix("https://www.google.gr/") {
+@-moz-document regexp("https?://[^/]+?\\.google\\.com/(?!maps).*"), regexp("https?://[^/]+?\\.google\\.gr/(?!maps).*") {
 /*================================================================
 
 	   Google Dark Theme
 	     by Andreas Karabetian
 
-	   v1.3
-	   Last updated: 25/07/2020
+	   v1.4
+	   Last updated: 27/07/2020
 
 ================================================================*/
 
