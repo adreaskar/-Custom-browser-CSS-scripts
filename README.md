@@ -25,3 +25,5 @@
 ![1](https://github.com/adreaskar/images/blob/master/manual2.jpg?raw=true)
 
 The styles are constantly under development and new features are being added.
+
+<img align="right" src="https://img.shields.io/github/repo-size/adreaskar/Custom-browser-CSS-scripts?color=%23ff7429&style=for-the-badge">
