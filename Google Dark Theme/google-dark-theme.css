@@ -4,8 +4,8 @@
 	   Google Dark Theme
 	     by Andreas Karabetian
 
-	   v1.4
-	   Last updated: 27/07/2020
+	   v1.5
+	   Last updated: 03/08/2020
 
 ================================================================*/
 
@@ -594,6 +594,23 @@ g-inner-card {
     background-color:#181818;
     color:white;
 }
+.vXQmIe, .VuHq7 {
+    background-color:#181818;
+    border:1px solid var(--border);
+}
+g-card {
+    background:#181818;
+}
+.hqwb1b, .tuHUkb {
+    color:white;
+}
+.xt8Uw,  .BP43u,.OZ8wsd, .e8eHnd {
+    color:#838587;
+}
+.jktSrf td {
+    border:1px solid var(--border);
+}
+
 
 /* Profile popup */
 .gb_8a.gb_F.gb_l.gb_9a.gb_na, .gb_8a.gb_F.gb_l.gb_ab.gb_na {
@@ -631,17 +648,41 @@ g-inner-card {
 .gb_Bb.gb_Bb:hover {
     background:#212121;
 }
-.dbg0pd {
+.dbg0pd, .u2sJ0e .lA0GG {
     color:white;
 }
-.rllt__details.lqhpac ,.DLOTif, .garHBe {
+.rllt__details.lqhpac ,.DLOTif, .garHBe, .rl_item_base .title {
     color:#838587 !important
 }
 .uMdZh.rl-qs-crs-t:hover { 
     background:#212121;
 }
-
-
+.BfIAp {
+    fill:#838587;
+    border-color:var(--border);
+}
+.BfIAp:hover {
+    fill:white;
+    border-color:white
+}
+.VtAqyd[data-s="true"] svg {
+    fill:var(--color);
+}
+.vtnSJf {
+    background-color:#181818
+}
+.AxJnmb {
+    margin-top:10px;
+}
+.fbPs3b {
+    border-bottom: 1px solid var(--border);
+}
+hr {
+    border-bottom:1px solid var(--border);
+}
+#swml {
+    border-left:1px solid var(--border);
+}
 
 /* Squares popup */
 
