@@ -12,6 +12,8 @@
 
 > [Google Dark Theme](https://userstyles.org/styles/187044/google-dark-theme-with-accent-color)
 
+> [Messenger Dark Theme](https://userstyles.org/styles/190529/messenger-dark-theme-for-web)
+
 > [Youtube Custom Accent Color](https://userstyles.org/styles/187051/youtube-custom-accent-color)
 
 ### If the userstyles.org website is not responding, you can manually import styles:
