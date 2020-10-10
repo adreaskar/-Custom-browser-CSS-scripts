@@ -21,7 +21,7 @@
 		"id": 1
 	},
 	{
-		"enabled": true,
+		"enabled": false,
 		"updateUrl": null,
 		"md5Url": null,
 		"url": null,
@@ -39,13 +39,39 @@
 		],
 		"updateDate": 1597050476637,
 		"_id": "1e16fa03-60bb-4e9c-aee8-24518e19492c",
-		"_rev": 1597050476637,
+		"_rev": 1599933834956,
 		"id": 2,
 		"exclusions": [
 			"https://mail.google.com/*",
 			"https://translate.google.com/",
 			"https://firebase.google.com/*",
-			"https://fonts.google.com/*"
+			"https://fonts.google.com/*",
+			"https://chrome.google.com/*",
+			"https://myaccount.google.com/*",
+			"https://cloud.google.com/*",
+			"https://drive.google.com/*",
+			"https://www.pinterest.com/*"
 		]
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1595615052537,
+		"name": "Messenger Dark Theme",
+		"sections": [
+			{
+				"code": ":root {\n    --border: rgb(131,133,135,0.2);\n}\n\n/* Body */\n._4sp8 {\n    background-color:#181818 !important;\n}\n._hh7 {\n    background-color:#292929;\n    color:white;\n}\n._3egs {\n    background: #181818;\n}\n._53ij {\n    background:#181818;\n    border:1px solid var(--border) !important;\n}\n._5irm._7mkm {\n    background-color:#292929;\n}\n._7st9, ._1ht7, ._17w2,._5iwm._6-_b ._58al::placeholder, ._5iwm._6-_b ._58al:-moz-placeholder, ._58al._7tpc, ._225b._6ybl, ._8slc, ._2f5n, ._1mf._1mj, ._ih3, ._1lj0._6ybm, ._3szq, ._3eur._6ybk a, ._4k7a, ._fy2, ._4rph ._4rpj, ._5qsj, ._5i_d .__6k, ._1ht3 ._1ht7._6zkh, ._67tw, ._2v6o {\n    color:white;\n}\n._3eus, ._5uh, ._497p {\n    color:#838587\n}\nbutton svg g #Fill-8 {\n    fill:#838587;\n}\n._aou, ._4kf5 {\n    background:#292929;\n}\n.notranslate._5rpu{\n    color:white !important\n}\n._1ht1._1ht2 ._6zkc {\n    background-color:#212121;\n}\n.__6l, .__6m{\n    color:#838587 !important;\n}\n._1ht3 ._1htf {\n    color:#09f;\n}\n.clearfix._17pz {\n    background:#181818;\n}\n._1uwz {\n    background:#292929\n}\n._1z_2._2u_d._7i2j path {\n    fill:white !important\n}\n._hh7 a {\n    color:white;\n}\n._7301._hh7, ._7301._hh7._hh7._6ybn {\n    background-color:#181818;\n    color:#838587;\n    border:.5px solid var(--border);\n}\n._8rsr {\n    fill: #181818;\n}\n\n\n/* Top left row elements */\n._6-xo {\n    color:white;\n}\n#Fill-2, #Page-1, #Fill-19, #js_4r path, ._6y56 path, ._6ybv path, #Settings path  {\n    fill:white;\n}\n#mask-2 #Fill-1 {\n    fill:white !important;\n}",
+				"domains": [
+					"messenger.com"
+				]
+			}
+		],
+		"updateDate": 1602332010985,
+		"_id": "1e364383-0578-4dd7-9d5e-c57d0cd8845a",
+		"_rev": 1602332010986,
+		"id": 7
 	}
 ]
